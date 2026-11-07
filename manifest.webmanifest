@@ -1,0 +1,26 @@
+{
+    "name":  "RP Gestão Agro — Visitas de campo",
+    "short_name":  "RP Gestão Agro",
+    "description":  "Aplicativo de campo da RP Gestão Agro (versão 25)",
+    "start_url":  "./",
+    "scope":  "./",
+    "display":  "standalone",
+    "orientation":  "any",
+    "background_color":  "#ffffff",
+    "theme_color":  "#154f42",
+    "lang":  "pt-BR",
+    "icons":  [
+                  {
+                      "purpose":  "any",
+                      "type":  "image/png",
+                      "sizes":  "192x192",
+                      "src":  "icones/icon-192.png"
+                  },
+                  {
+                      "purpose":  "any",
+                      "type":  "image/png",
+                      "sizes":  "512x512",
+                      "src":  "icones/icon-512.png"
+                  }
+              ]
+}
